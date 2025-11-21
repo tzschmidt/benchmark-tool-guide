@@ -9,6 +9,7 @@ an outdated version of the benchmark tool, but may still be helpful in some case
 Content:
 - `cluster.md`: A compact guide on how to use the cluster and what to pay attention to regarding
 the benchmark tool
+- `runlim.md`: Some information regarding runlim
 
 
 [btool]: https://github.com/potassco/benchmark-tool
