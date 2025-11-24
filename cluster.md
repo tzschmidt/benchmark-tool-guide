@@ -21,12 +21,6 @@ Select 'SSH-Schlüssel bearbeiten' and log in with your CS credentials.
 Aftwerwards paste your ssh-key into the big text field below 'Schlüssel hinzufügen',
 enter your password and click 'Speichern'.
 
-After getting your accounts, you have to add your SSH key. This can be done using
-the [account][cs_account] page. This page is only available in German.
-Select 'SSH-Schlüssel bearbeiten' and log in with your CS credentials.
-Afterwards, paste your SSH key into the large text field below 'Schlüssel hinzufügen',
-enter your password, and click 'Speichern'.
-
 >[!NOTE]
 >Changes to your CS account, e.g., setting a new password/ssh-keys may take
 >some time to process.
@@ -81,9 +75,6 @@ More general information regarding the cluster can be found on its
 
 We recommend to install any python tools inside a conda environment, specifically
 miniconda. miniconda installation instructions can be found [here][miniconda].
-
-We recommend installing any Python tools inside a conda environment, specifically
-Miniconda. Miniconda installation instructions can be found [here][miniconda].
 
 After you have setup miniconda, you can install and use the benchmark tool as described
 in the [getting started][get_started] section of the documentation. Keep in mind you should
